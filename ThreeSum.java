@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * Created by dheerajraaj on 13/06/17.
+ * Created by Dheeraj Kumar Barnwal on 13/06/17.
  */
 public class ThreeSum {
 
