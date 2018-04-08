@@ -2,7 +2,7 @@
 
 /**
  *
- * @author Dheeraj Kumar Barnwal (https://github.com/dheeraj92)abc
+ * @author Dheeraj Kumar Barnwal (https://github.com/dheeraj92)
  *
  */
 import java.util.Scanner;
